@@ -3,12 +3,7 @@
     {
       "name": "常用",
       "data": [
-        {
-          "name": "更新日志",
-          "type": "app://updateInfo",
-          "pic": "",
-          "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/update.html"
-        },
+        
         {
           "name": "小说阅读",
           "type": "app://book",
