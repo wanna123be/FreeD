@@ -548,7 +548,7 @@
             "click":true
         },
 	{
-            "name":"1010电影(Web)",
+            "name":"*1010电影(Web)",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "ads":"",
             "webUrl":"https://www.1010dy.cc/",
@@ -556,7 +556,7 @@
             "click":true
         },
         {
-            "name":"长资源(Web)",
+            "name":"厂长影视(Web)",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
             "type":"webPlug",
             "ads":"",
@@ -591,78 +591,27 @@
             "webOpen":true,
             "click":true
         },
+        
+        
         {
-            "name":"zzzfun(Web)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
-            "type":"webPlug",
-            "ads":"ad,https://nfxhd.com/pic/p.gif",
-            "webUrl":"http://www.zzzfun.com/",
-            "webOpen":true,
-            "click":true
-        },
-        {
-            "name":"百度搜索(Web)",
+            "name":"9亿电影(Web)",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
             "userAgent":"PC",
             "ads":"",
-            "webUrl":"https://www.baidu.com/",
+            "webUrl":"https://www.9ela.com/",
             "webOpen":true,
             "click":true
-        },
-        {
-            "name":"央视直播(Web)",
+        }
+	{
+            "name":"COKEMV(Web)",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "keyDownPlay":false,
             "keyUpPlay":false,
             "userAgent":"PC",
             "ads":"",
-            "webUrl":"https://tv.cctv.com/live/",
-            "webOpen":true,
-            "click":true
-        },
-        {
-            "name":"虎牙一起看(Web)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-            "keyDownPlay":false,
-            "keyUpPlay":false,
-            "userAgent":"PC",
-            "ads":"",
-            "webUrl":"https://www.huya.com/g/seeTogether",
-            "webOpen":true,
-            "click":true
-        },
-        {
-            "name":"斗鱼一起看(Web)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-            "keyDownPlay":false,
-            "keyUpPlay":false,
-            "userAgent":"PC",
-            "ads":"",
-            "webUrl":"https://www.douyu.com/g_yqk",
-            "webOpen":true,
-            "click":true
-        },
-        {
-            "name":"哔哩哔哩一起看(Web)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-            "keyDownPlay":false,
-            "keyUpPlay":false,
-            "userAgent":"PC",
-            "ads":"",
-            "webUrl":"https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
-            "webOpen":true,
-            "click":true
-        },
-        {
-            "name":"企鹅一起看(Web)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-            "keyDownPlay":false,
-            "keyUpPlay":false,
-            "userAgent":"PC",
-            "ads":"",
-            "webUrl":"https://egame.qq.com/livelist?layoutid=2000000110",
+            "webUrl":"https://cokemv.me/",
             "webOpen":true,
             "click":true
         }
