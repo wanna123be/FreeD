@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "title": "热门",
+      "title": "影视",
       "list": [
         
         {
@@ -58,20 +58,10 @@
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN016MnVLV2C4PZQRzmnB_!!913168420.png",
           "url": "https://tv.cctv.com/live/",
           "type": "app://customWeb"
-        },
-        
-        {
-          "name": "哔哩哔哩",
-          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Y2Kpb02C4PZOOOaxK_!!913168420.png",
-          "url": "https://live.bilibili.com/",
-          "type": "app://customWeb"
-        },
-        {
-          "name": "网易CC",
-          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01Ng4pLI2C4PZT5LxJd_!!913168420.png",
-          "url": "https://cc.163.com/",
-          "type": "app://customWeb"
         }
+        
+        
+        
       ]
     },
     {
@@ -100,19 +90,8 @@
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01i29exX2C4PZYb9Lxs_!!913168420.png",
           "url": "https://cn.bing.com/",
           "type": "app://customWeb"
-        },
-        {
-          "name": "magi",
-          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01RZQ76a2C4PZWLF2dU_!!913168420.png",
-          "url": "https://magi.com/",
-          "type": "app://customWeb"
-        },
-        {
-          "name": "yandex",
-          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01Y4he3D2C4PZWLAwuR_!!913168420.png",
-          "url": "https://yandex.com/",
-          "type": "app://customWeb"
         }
+        
       ]
     }
   ]
