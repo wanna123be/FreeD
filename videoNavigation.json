@@ -29,6 +29,30 @@
     {
       "name": "在线影视",
       "data": [
+       {
+          "name": "1010影视",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://www.1010dy.cc/"
+        },
+         {
+          "name": "COKEMV",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://cokemv.me/"
+        },
+        {
+          "name": "艾迪影视",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://aidi.tv/&&&adsbygoogle,googleapis,ads,google"
+        },
+        {
+          "name": "厂长影视",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01VlhZFm2C4PZfSpvXp_!!913168420.png",
+          "url": "https://www.qianoo.cn/&&&adsbygoogle,googleapis,ads,google",
+          "type": "app://customWeb"
+        },
         {
           "name": "虎牙一起看",
           "type": "app://customWeb",
@@ -88,7 +112,7 @@
           "name": "9亿看看",
           "type": "app://customWeb",
           "pic": "http://www.baidu.com/aaa.jpg",
-          "url": "https://www.9egood.com/&&&hlgglm,xunlei,2526game,68710266"
+          "url": "https://www.9ela.com/&&&hlgglm,xunlei,2526game,68710266"
         },
 
         {
@@ -145,6 +169,12 @@
     {
       "name": "在线直播",
       "data": [
+        {
+          "name": "央视",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://tv.cctv.com/live/"          
+        },
         {
           "name": "虎牙直播",
           "type": "app://customWeb",
