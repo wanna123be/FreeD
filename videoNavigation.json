@@ -3,9 +3,7 @@
     {
       "name": "常用",
       "data": [
-        
-        
-
+  
         {
           "name": "自定义网址",
           "type": "app://custom",
@@ -230,5 +228,35 @@
         }
       ]
     }
+   {
+      "name": "搜索",
+      "data": [
+        {
+          "name": "百度",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01rgSnol2C4PZWpj0zL_!!913168420.png",
+          "url": "https://www.baidu.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "谷歌",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Nf90zc2C4PZPrsJNM_!!913168420.png",
+          "url": "https://www.google.com",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "搜狗",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01WuXEf42C4PZWLAHKI_!!913168420.png",
+          "url": "https://www.sogou.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "必应",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01i29exX2C4PZYb9Lxs_!!913168420.png",
+          "url": "https://cn.bing.com/",
+          "type": "app://customWeb"
+        }
+        
+      ]
+    } 
   ]
 }
