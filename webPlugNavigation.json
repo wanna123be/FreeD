@@ -65,9 +65,9 @@
                         "nameCss":"img.thumb.lazy",
                         "nameIndex":0,
                         "searchListCss":"ul > li",
-                        "urlAttr":"href",
+                        "urlAttr":"https://qianoo.cn/movie/11253.html",
                         "urlCss":"a",
-                        "urlIndex":5
+                        "urlIndex":0
                     },
                     "search":{
                         "descAttr":"",
