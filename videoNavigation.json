@@ -27,7 +27,13 @@
     {
       "name": "在线影视",
       "data": [
-       {
+        {
+          "name": "素白白",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://www.subaibai.com/"
+        },
+        {
           "name": "1010影视",
           "type": "app://customWeb",
           "pic": "",
