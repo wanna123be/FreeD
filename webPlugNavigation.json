@@ -36,7 +36,7 @@
                 },
                 "html":{
                     "episodes":{
-                        "hasUrlPrefix":false,
+                        "hasUrlPrefix":1,
                         "isListItemAttr":true,
                         "listCss":"div.mi_ne_kd",
                         "isMultiList":true,
@@ -51,7 +51,7 @@
                         "descAttr":"",
                         "descCss":"div.hdinfo",
                         "descIndex":0,
-                        "hasUrlPrefix":false,
+                        "hasUrlPrefix":1,
                         "imgAttr":"data-original",
                         "imgCss":"img.thumb.lazy",
                         "imgIndex":0,
