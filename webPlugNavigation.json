@@ -53,7 +53,7 @@
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"data-original",
-                        "imgCss":"img.thumb.lazy",
+                        "imgCss":"a > img.thumb.lazy",
                         "imgIndex":0,
                         "isDescAttr":false,
                         "isImgAttr":true,
@@ -62,11 +62,11 @@
                         "mainCss":"div.bt_img.mi_ne_kd.mrb",
                         "mainListIndex":0,
                         "nameAttr":"alt",
-                        "nameCss":"img.thumb.lazy",
+                        "nameCss":"a > img.thumb.lazy",
                         "nameIndex":0,
                         "searchListCss":"ul > li",
                         "urlAttr":"href",
-                        "urlCss":"h3 > a",
+                        "urlCss":"a",
                         "urlIndex":0
                     },
                     "search":{
