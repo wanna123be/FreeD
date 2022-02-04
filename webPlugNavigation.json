@@ -248,7 +248,7 @@
                         "urlIndex":0
                     },
                     "search":{
- "descAttr":"",
+ 			"descAttr":"",
                         "descCss":"span.pic-text.text-right",
                         "descIndex":0,
                         "hasUrlPrefix":false,
@@ -259,12 +259,12 @@
                         "isImgAttr":true,
                         "isNameAttr":true,
                         "isUrlAttr":true,
-                        "mainCss":"ul.stui-vodlist__medi.col-pd.clearfix",
+                        "mainCss":"div.stui-pannel_bd",
                         "mainListIndex":0,
                         "nameAttr":"title",
                         "nameCss":"a",
                         "nameIndex":0,
-                        "searchListCss":"li",
+                        "searchListCss":"ul > li",
                         "urlAttr":"href",
                         "urlCss":"a",
                         "urlIndex":0
