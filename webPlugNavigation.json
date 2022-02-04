@@ -99,22 +99,16 @@
                 "search":true,
                 "navHtml":{
                     "name":[
-                        "豆瓣电影Top250",
+                    
                         "电影",
-                        "国产剧",
-                        "美剧",
-			 "韩剧",
-			    "番剧",
-			    "动漫"
+                        "国产剧"
+                        
                     ],
                     "cate":[
-                        "dbtop250",
+                       
                         "zuixindianying",
-                        "gcj",
-                        "meijutt",
-			"hanjutv",
-			"fanju",
-			"dm"
+                        "gcj"
+                     
                     ],
                     "page":"1"
                 },
