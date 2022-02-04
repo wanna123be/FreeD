@@ -157,7 +157,7 @@
                         "searchListCss":"li",
                         "urlAttr":"href",
                         "urlCss":"a",
-                        "urlIndex":0
+                        "urlIndex":1
                     },
                     "search":{
                         "descAttr":"",
