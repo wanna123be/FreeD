@@ -49,7 +49,7 @@
                     },
                     "nav":{
                         "descAttr":"",
-                        "descCss":"span#div.hdinfo",
+                        "descCss":"div.hdinfo",
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"data-original",
@@ -128,7 +128,7 @@
                     "episodes":{
                         "hasUrlPrefix":false,
                         "isListItemAttr":true,
-                        "listCss":"div.tab-pane.fade.in.clearfix",
+                        "listCss":"div.tab-pane.fade.in.clearfix3",
                         "isMultiList":true,
                         "listCssMulti":"ul > li",
                         "listItemAttr":"href",
