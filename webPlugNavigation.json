@@ -196,7 +196,7 @@
                 "search_url":"https://www.1010dy.cc/search?wd={kw}",
                 "nav_url":"https://www.1010dy.cc/type/navCate-navPage",
                 "web_name":"",
-                "search":false,
+                "search":true,
                 "navHtml":{
                     "name":[
                         "电影",
@@ -259,12 +259,12 @@
                         "isImgAttr":true,
                         "isNameAttr":true,
                         "isUrlAttr":true,
-                        "mainCss":"div.stui-pannel_bd",
+                        "mainCss":"ul.stui-vodlist__media col-pd clearfix",
                         "mainListIndex":1,
                         "nameAttr":"title",
                         "nameCss":"a",
                         "nameIndex":0,
-                        "searchListCss":"ul > li",
+                        "searchListCss":"li",
                         "urlAttr":"href",
                         "urlCss":"a",
                         "urlIndex":0
