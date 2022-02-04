@@ -10,7 +10,7 @@
             "click":true,
             "webPlus":{
                 "search_url":"https://www.1010dy.cc/search?wd={kw}",
-                "nav_url":"https://www.1010dy.cc/type/navCate-navPage/",
+                "nav_url":"https://www.1010dy.cc/type/navCate-navPage",
                 "web_name":"久久看片",
                 "search":true,
                 "navHtml":{
@@ -47,7 +47,7 @@
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"src",
-                        "imgCss":"img",
+                        "imgCss":"data-original",
                         "imgIndex":0,
                         "isDescAttr":false,
                         "isImgAttr":true,
