@@ -12,7 +12,7 @@
                 "search_url":"https://www.1010dy.cc/search?wd={kw}",
                 "nav_url":"https://www.1010dy.cc/type/navCate-navPage",
                 "web_name":"",
-                "search":true,
+                "search":false,
                 "navHtml":{
                     "name":[
                         "电影",
