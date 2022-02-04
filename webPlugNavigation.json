@@ -61,7 +61,7 @@
                         "isUrlAttr":true,
                         "mainCss":"ul",
                         "mainListIndex":0,
-                        "nameAttr":"alt",
+                        "nameAttr":"title",
                         "nameCss":"a",
                         "nameIndex":0,
                         "searchListCss":"li",
