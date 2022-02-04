@@ -32,7 +32,7 @@
                     "episodes":{
                         "hasUrlPrefix":false,
                         "isListItemAttr":true,
-                        "listCss":"div.stui-pannel_bd.col-pd.clearfix",
+                        "listCss":"div.stui-pannel-box.b.playlist.mb",
                         "isMultiList":true,
                         "listCssMulti":"ul > li",
                         "listItemAttr":"href",
