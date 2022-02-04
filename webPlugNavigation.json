@@ -62,7 +62,7 @@
                         "mainCss":"div.bt_img.mi_ne_kd.mrb",
                         "mainListIndex":0,
                         "nameAttr":"title",
-                        "nameCss":"a#h3",
+                        "nameCss":"h3 > a",
                         "nameIndex":0,
                         "searchListCss":"ul > li",
                         "urlAttr":"href",
