@@ -49,7 +49,7 @@
                     },
                     "nav":{
                         "descAttr":"",
-                        "descCss":"span.qb",
+                        "descCss":"span#div.hdinfo",
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"data-original",
