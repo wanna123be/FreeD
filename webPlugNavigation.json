@@ -38,13 +38,13 @@
                     "episodes":{
                         "hasUrlPrefix":false,
                         "isListItemAttr":true,
-                        "listCss":"div.tab-pane.fade.in.clearfix",
+                        "listCss":"div.mi_ne_kd",
                         "isMultiList":true,
-                        "listCssMulti":"ul > li",
+                        "listCssMulti":"div.paly_list_btn",
                         "listItemAttr":"href",
                         "listItemCss":"a",
                         "listItemIndex":0,
-                        "mainCss":"div.tab-content.myui-panel_bd",
+                        "mainCss":"div.mi_paly_box",
                         "mainIndex":0
                     },
                     "nav":{
