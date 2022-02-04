@@ -141,7 +141,7 @@
                         "descAttr":"",
                         "descCss":"span.tag",
                         "descIndex":0,
-                        "hasUrlPrefix":true,
+                        "hasUrlPrefix":false,
                         "imgAttr":"data-original",
                         "imgCss":"a",
                         "imgIndex":0,
