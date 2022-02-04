@@ -53,7 +53,7 @@
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"src",
-                        "imgCss":"img",
+                        "imgCss":"a",
                         "imgIndex":0,
                         "isDescAttr":false,
                         "isImgAttr":true,
