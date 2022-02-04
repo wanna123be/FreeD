@@ -248,7 +248,7 @@
                         "urlIndex":0
                     },
                     "search":{
-                        "descAttr":"",
+ "descAttr":"",
                         "descCss":"span.pic-text.text-right",
                         "descIndex":0,
                         "hasUrlPrefix":false,
@@ -259,8 +259,8 @@
                         "isImgAttr":true,
                         "isNameAttr":true,
                         "isUrlAttr":true,
-                        "mainCss":"ul.stui-vodlist__media.col-pd.clearfix",
-                        "mainListIndex":1,
+                        "mainCss":"ul#searchList",
+                        "mainListIndex":0,
                         "nameAttr":"title",
                         "nameCss":"a",
                         "nameIndex":0,
