@@ -38,7 +38,7 @@
                         "listItemAttr":"href",
                         "listItemCss":"a",
                         "listItemIndex":0,
-                        "mainCss":"stui-pannel_hd",
+                        "mainCss":"div.stui-pannel_hd",
                         "mainIndex":0
                     },
                     "nav":{
