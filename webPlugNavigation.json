@@ -52,7 +52,7 @@
                         "descCss":"span.qb",
                         "descIndex":0,
                         "hasUrlPrefix":false,
-                        "imgAttr":"src",
+                        "imgAttr":"data-original",
                         "imgCss":"a",
                         "imgIndex":0,
                         "isDescAttr":false,
