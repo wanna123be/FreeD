@@ -1,6 +1,6 @@
 {
     "data":[
-      {
+       {
             "name":"厂长影视(规则)",
             "pic":"https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
             "type":"webPlug",
@@ -39,12 +39,12 @@
                         "hasUrlPrefix":true,
                         "isListItemAttr":true,
                         "listCss":"div.mi_ne_kd",
-                        "isMultiList":false,
-                        "listCssMulti":"",
+                        "isMultiList":true,
+                        "listCssMulti":"div.paly_list_btn",
                         "listItemAttr":"href",
                         "listItemCss":"a",
                         "listItemIndex":0,
-                        "mainCss":"div.paly_list_btn",
+                        "mainCss":"div.mi_paly_box",
                         "mainIndex":0
                     },
                     "nav":{
@@ -53,7 +53,7 @@
                         "descIndex":0,
                         "hasUrlPrefix":true,
                         "imgAttr":"data-original",
-                        "imgCss":"a",
+                        "imgCss":"img.thumb.lazy",
                         "imgIndex":0,
                         "isDescAttr":false,
                         "isImgAttr":true,
@@ -81,12 +81,12 @@
                         "isImgAttr":true,
                         "isNameAttr":true,
                         "isUrlAttr":true,
-                        "mainCss":"ul#searchList",
+                        "mainCss":"div.stui-pannel_bd",
                         "mainListIndex":1,
                         "nameAttr":"title",
                         "nameCss":"a",
                         "nameIndex":0,
-                        "searchListCss":"li",
+                        "searchListCss":"ul > li",
                         "urlAttr":"href",
                         "urlCss":"a",
                         "urlIndex":0
