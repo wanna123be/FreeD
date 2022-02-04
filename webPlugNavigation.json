@@ -32,13 +32,13 @@
                     "episodes":{
                         "hasUrlPrefix":false,
                         "isListItemAttr":true,
-                        "listCss":"div.panel.panel-default.resource-list",
+                        "listCss":"div.stui-pannel_bd.col-pd.clearfix",
                         "isMultiList":true,
                         "listCssMulti":"ul > li",
                         "listItemAttr":"href",
                         "listItemCss":"a",
                         "listItemIndex":0,
-                        "mainCss":"div.row",
+                        "mainCss":"stui-pannel_hd",
                         "mainIndex":0
                     },
                     "nav":{
