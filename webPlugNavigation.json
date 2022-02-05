@@ -16,11 +16,20 @@
                 "navHtml":{
                     "name":[
                         "电影",
-                        "国产剧"
+                        "国产剧",
+			 "港台电影",
+			  "港台剧",
+			  "欧美电影",
+			  "俄罗斯电影"
+			   
                     ],
                     "cate":[
                         "new-movie",
-                        "movie_bt_series/guochanju"
+                        "movie_bt_series/guochanju",
+			"movie_bt_series/gangtaidy",
+			 "movie_bt_series/gangju",
+			    "movie_bt_series/oumeidy",
+			    "movie_bt/movie_bt_cat/russia"
                     ],
                     "page":"1"
                 },
@@ -71,12 +80,12 @@
                         "isImgAttr":true,
                         "isNameAttr":true,
                         "isUrlAttr":true,
-                        "mainCss":"div.bt_img.mi_ne_kd.search_list",
+                        "mainCss":"ul",
                         "mainListIndex":0,
                         "nameAttr":"alt",
                         "nameCss":"img.thumb.lazy",
                         "nameIndex":0,
-                        "searchListCss":"ul > li",
+                        "searchListCss":"li",
                         "urlAttr":"href",
                         "urlCss":"a",
                         "urlIndex":0
