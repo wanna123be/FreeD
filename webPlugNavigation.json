@@ -722,7 +722,16 @@
         }
       }
     },
-        {
+       
+	    {
+            "name":"网课资源(Web)",
+            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "ads":"",
+            "webUrl":"https://ykt.eduyun.cn/",
+            "webOpen":true,
+            "click":true
+        },
+	    {
             "name":"西瓜视频(Web)",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
             "ads":"",
