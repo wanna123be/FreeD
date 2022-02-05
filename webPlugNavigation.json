@@ -72,7 +72,7 @@
                         "isNameAttr":true,
                         "isUrlAttr":true,
                         "mainCss":"div.bt_img.mi_ne_kd.search_list",
-                        "mainListIndex":1,
+                        "mainListIndex":0,
                         "nameAttr":"alt",
                         "nameCss":"img.thumb.lazy",
                         "nameIndex":0,
