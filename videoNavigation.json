@@ -167,13 +167,19 @@
       ]
     },
     {
-      "name": "音乐读物",
+      "name": "学习资源",
       "data": [
         {
           "name": "疯狂音乐搜索",
           "type": "app://customWeb",
           "pic": "",
           "url": "https://music.myepoch.cn/"
+        },
+  {
+          "name": "云课堂",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://ykt.eduyun.cn/"
         },
         {
           "name": "KPCC Radio",
