@@ -1,21 +1,6 @@
 {
   "data": [
-    {
-      "name": "云课程",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://pastebin.com/raw/KbFVgdu4",
-      "type": "gitJson",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "webOpen": false,
-      "keyDownPlay": true,
-      "keyUpPlay": true,
-      "userAgent": "",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-    },
+    
     {
       "name": "txt格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
@@ -32,22 +17,7 @@
       "decoder": 0,
       "webPlus": {}
     }, 
-     {
-      "name": "txt2",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://wanna123be.github.io/FreeD/sc.txt",
-      "type": "txt",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "webOpen": false,
-      "keyDownPlay": true,
-      "keyUpPlay": true,
-      "userAgent": "",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-    }, 
+     
     {
       "name": "json格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
