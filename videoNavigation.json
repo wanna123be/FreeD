@@ -182,6 +182,12 @@
           "url": "https://ykt.eduyun.cn/"
         },
         {
+          "name": "freedictionary",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://www.thefreedictionary.com/"
+        },
+        {
           "name": "KPCC Radio",
           "type": "app://customWeb",
           "pic": "",
