@@ -739,6 +739,14 @@
             "webOpen":true,
             "click":true
         },
+	     {
+            "name":"Youtube(Web)",
+            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+            "ads":"",
+            "webUrl":"https://www.youtube.com/",
+            "webOpen":true,
+            "click":true
+        },
 	{
             "name":"1010电影(Web)",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
