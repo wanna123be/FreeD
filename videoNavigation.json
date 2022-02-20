@@ -192,6 +192,12 @@
           "type": "app://customWeb",
           "pic": "",
           "url": "https://kpcclive1.publicradio.org/"
+        },
+{
+          "name": "TV系列",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://pastebin.com/raw/Dg5EDRXp"
         }
       ]
     },
