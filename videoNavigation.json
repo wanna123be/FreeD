@@ -128,6 +128,12 @@
           "pic": "",
           "url": "https://tv.cctv.com/live/"          
         },
+{
+          "name": "视频解析",
+          "type": "app://customWeb",
+          "pic": "",
+          "url": "https://svip.bljiex.cc/"          
+        },
         {
           "name": "虎牙直播",
           "type": "app://customWeb",
@@ -167,7 +173,7 @@
       ]
     },
     {
-      "name": "学习资源",
+      "name": "其他资源",
       "data": [
         {
           "name": "疯狂音乐搜索",
